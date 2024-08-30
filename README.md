@@ -15,9 +15,7 @@
 
 ## Prerequisites
 
-Before using the script, ensure the following:
-
-- **Python 3.x** installed on your system.
+Before using the script in python, ensure the following:
 - Install the required Python packages:
   ```
   pip install requests beautifulsoup4 python-Levenshtein
@@ -50,7 +48,7 @@ Before using the script, ensure the following:
   ]
   ```
 
-### Step 3: Run the Script
+### Step 3: Run the Script (If you are using python)
 
 - Run the script in your Python environment:
   ```
